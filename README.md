@@ -1,4 +1,4 @@
-# Subotiz Dev MCP
+# Subotiz MCP
 
 Subotiz Dev MCP 是基于 [Model Context Protocol](https://spec.modelcontextprotocol.io/) 的开放工具集服务器。AI 代理可通过标准化 MCP 工具与 Subotiz 支付与订阅能力交互（客户、商品、定价、订阅、交易、退款、发票、Webhook 及开发者文档查询等）。
 
@@ -19,7 +19,7 @@ Subotiz Dev MCP 是基于 [Model Context Protocol](https://spec.modelcontextprot
 {
   "mcpServers": {
     "my-remote-server": {
-      "url": "https://api.subotiz.com/mcp/dev",
+      "url": "https://api.subotiz.com/mcp",
       "headers": {
         "Authorization": "Bearer YOUR_TOKEN_HERE"
       }
@@ -63,7 +63,7 @@ When connecting to the official hosted service, you only need to configure the U
 {
   "mcpServers": {
     "my-remote-server": {
-      "url": "https://api.subotiz.com/mcp/dev",
+      "url": "https://api.subotiz.com/mcp",
       "headers": {
         "Authorization": "Bearer YOUR_TOKEN_HERE"
       }
