@@ -1,0 +1,26 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "io.github.Subotiz/subotiz-dev-mcp",
+    "title": "Subotiz MCP",
+    "description": "Connect AI assistants to Subotiz - Using Subotiz's external capabilities through natural language",
+    "version": "0.0.3",
+    "repository": {
+        "url": "https://github.com/Subotiz/mcp",
+        "source": "github"
+    },
+    "remotes": [
+        {
+            "type": "streamable-http",
+            "url": "https://api.subotiz.com/mcp",
+            "headers": [
+                {
+                    "name": "Authorization",
+                    "description": "API Key",
+                    "format": "string",
+                    "isRequired": true,
+                    "isSecret": true
+                }
+            ]
+        }
+    ]
+}
