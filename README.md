@@ -37,7 +37,7 @@ Subotiz MCP 是基于 [Model Context Protocol](https://spec.modelcontextprotocol
 
 ## 工具列表
 
-完整工具列表（工具名、类别、path、说明）在单独文档中维护，便于同步更新：[TOOLS.md](TOOLS.md)。更多接口与参数以 [Subotiz 开发者文档](https://developer.subotiz.com/docs) 为准。
+完整工具列表（工具名、类别、path、说明）在单独文档中维护，便于同步更新：[TOOLS.md](TOOLS.md)。更多接口与参数以 [Subotiz 开发者文档](https://developer.subotiz.com/v1.0-zh-cn/reference/over-view) 为准。
 
 ---
 
@@ -80,5 +80,5 @@ Replace `YOUR_TOKEN_HERE` with your Subotiz access token. In hosts such as VS Co
 
 ## Tool List
 
-The full tool list (name, category, path, description) is maintained in a separate document for easier updates: [TOOLS.md](TOOLS.md). For more endpoints and parameters, see the [Subotiz Developer Documentation](https://developer.subotiz.com/docs).
+The full tool list (name, category, path, description) is maintained in a separate document for easier updates: [TOOLS.md](TOOLS.md). For more endpoints and parameters, see the [Subotiz Developer Documentation](https://developer.subotiz.com/v1.0-en-us/reference/overview-1).
 

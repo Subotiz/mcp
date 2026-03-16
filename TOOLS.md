@@ -1,6 +1,6 @@
 # Subotiz MCP 工具列表 / Tool List
 
-本文档单独维护 MCP 工具列表，便于同步更新。更多接口与参数以 [Subotiz 开发者文档](https://developer.subotiz.com/docs) 为准。
+本文档单独维护 MCP 工具列表，便于同步更新。更多接口与参数以 [Subotiz 开发者文档](https://developer.subotiz.com/v1.0-zh-cn/reference/over-view) 为准。
 
 ---
 
@@ -42,4 +42,4 @@
 | `get_llm_full_doc` | Developer docs | - | Get full LLM documentation (llm-full.txt) |
 | `get_llm_doc` | Developer docs | - | Get condensed LLM documentation (llm.txt) |
 
-For more endpoints and parameters, see the [Subotiz Developer Documentation](https://developer.subotiz.com/docs).
+For more endpoints and parameters, see the [Subotiz Developer Documentation](https://developer.subotiz.com/v1.0-en-us/reference/overview-1).
