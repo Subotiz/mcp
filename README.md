@@ -11,7 +11,6 @@ Subotiz MCP 是基于 [Model Context Protocol](https://spec.modelcontextprotocol
 
 ## Subotiz MCP地址
 
-* stg环境：[http://api.stg.subotiz.com/mcp](http://api.stg.subotiz.com/mcp)
 * sandbox环境：[https://api.sandbox.subotiz.com/mcp](https://api.sandbox.subotiz.com/mcp)
 * prod环境：[https://api.subotiz.com/mcp](https://api.subotiz.com/mcp)
 
@@ -62,7 +61,6 @@ Subotiz MCP is an open toolset server based on the [Model Context Protocol](http
 
 ## Subotiz MCP URL
 
-* stg: [http://api.stg.subotiz.com/mcp](http://api.stg.subotiz.com/mcp)
 * sandbox: [https://api.sandbox.subotiz.com/mcp](https://api.sandbox.subotiz.com/mcp)
 * prod: [https://api.subotiz.com/mcp](https://api.subotiz.com/mcp)
 
