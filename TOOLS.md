@@ -14,4 +14,4 @@
 | `get_llm_full_doc` | Developer docs | - | Get full LLM documentation (llm-full.txt) |
 | `get_llm_doc` | Developer docs | - | Get condensed LLM documentation (llm.txt) |
 
-For more endpoints and parameters, see the [Subotiz Developer Documentation](https://developer.subotiz.com/v1.0-en-us/reference/overview-1).
+For more endpoints and parameters, see the [Subotiz Developer Documentation](https://docs.subotiz.com/en/quick-start/overview).

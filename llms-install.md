@@ -31,7 +31,7 @@ The `Authorization` header value is `Bearer <API_KEY>`, where `<API_KEY>` is the
 
 - If the user has already provided a key, use it as-is.
 - If they have not, **stop and ask** them for it. Do NOT fabricate a token or commit a placeholder as if it were real.
-- Key creation and authentication details: https://developer.subotiz.com/v1.0-zh-cn/reference/authentication-1
+- Key creation and authentication details: https://docs.subotiz.com/en/api/authentication-1
 
 > Security: Treat the API Key as a secret. Never print it in chat logs, never commit it to git, and prefer host-native secret/`${env:...}` mechanisms when the host supports them.
 
@@ -183,5 +183,5 @@ After writing the config:
 
 - Available tools: see [`TOOLS.md`](TOOLS.md)
 - Server metadata: see [`server.json`](server.json)
-- Developer documentation: https://developer.subotiz.com/v1.0-en-us/reference/overview-1
-- Authentication guide: https://developer.subotiz.com/v1.0-zh-cn/reference/authentication-1
+- Developer documentation: https://docs.subotiz.com/en/quick-start/overview
+- Authentication guide: https://docs.subotiz.com/en/api/authentication-1

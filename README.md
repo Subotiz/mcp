@@ -47,4 +47,4 @@ Cursor example (add to Cursor’s MCP settings):
 
 Replace `{{MCP_URL}}` with the MCP URL for your target environment and `{{YOUR_TOKEN_HERE}}` with your Subotiz access token. In hosts such as VS Code, Cursor, or Claude Desktop, merge the above into their respective MCP configuration (e.g. `servers` or `mcpServers`) to use it.
 
-Obtaining an API Key: The token in the configuration is your Subotiz API Key. For steps to create one and authentication details, see the [<u>Authentication guide</u>](https://developer.subotiz.com/v1.0-zh-cn/reference/authentication-1).
+Obtaining an API Key: The token in the configuration is your Subotiz API Key. For steps to create one and authentication details, see the [<u>Authentication guide</u>](https://docs.subotiz.com/en/api/authentication-1).
